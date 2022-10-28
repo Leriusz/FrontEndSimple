@@ -5,7 +5,7 @@ button.addEventListener("click", () => colorFunction());
 
 function type() {
     const textt = document.body.querySelector(".phrase");
-    textt.textContent = "Love you";
+    textt.textContent = "Kocham Ciebie Julciu";
 }
 
 
