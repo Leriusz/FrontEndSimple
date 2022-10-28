@@ -22,13 +22,26 @@ header{
     box-shadow: 10px 5px 5px hotpink;
 }
 
+/*.hide {*/
+/*    display: none;*/
+/*}*/
+
+/*.show {*/
+/*    display: contents;*/
+/*}*/
+
 footer{
+    height: 120px;
     border-start-start-radius: 25px;
     padding: 20px;
     background-clip: content-box;
     text-align: center;
     background: coral;
     margin-top: 20px;
+}
+
+a{
+    color: brown;
 }
 
 button {
