@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.container{
+    border: thick solid darksalmon;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: white;
+    margin: 50px;
+    padding-block: 20px 50px;
+    writing-mode: horizontal-tb;
+    box-shadow: 10px 5px 5px hotpink;
+}
+
+button {
+    background-color: coral;
+    font-style: oblique;
+}
+
