@@ -2,19 +2,37 @@ body{
     background-color: black;
 }
 
+header{
+    border-end-end-radius: 25px;
+    background-color: darksalmon;
+    text-align: center;
+    color: brown;
+    padding: 20px;
+}
 .container{
+    height: 200px;
     border: thick solid darksalmon;
+    border-radius: 25px;
     text-align: center;
     font-family: cursive;
     font-size: 25px;
     background-color: white;
     margin: 50px 200px;
-    padding-block: 20px 50px;
-    writing-mode: horizontal-tb;
+    padding-block: 100px 50px;
     box-shadow: 10px 5px 5px hotpink;
 }
 
+footer{
+    border-start-start-radius: 25px;
+    padding: 20px;
+    background-clip: content-box;
+    text-align: center;
+    background: coral;
+    margin-top: 20px;
+}
+
 button {
+    border-radius: 25px;
     background-color: coral;
     font-style: oblique;
 }
