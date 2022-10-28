@@ -3,12 +3,17 @@ body{
 }
 
 header{
+    align-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
     border-end-end-radius: 25px;
     background-color: darksalmon;
     text-align: center;
     color: brown;
     padding: 20px;
 }
+
 .container{
     height: 200px;
     border: thick solid darksalmon;
@@ -17,7 +22,7 @@ header{
     font-family: cursive;
     font-size: 25px;
     background-color: white;
-    margin: 50px 200px;
+    margin: 100px 200px;
     padding-block: 100px 50px;
     box-shadow: 10px 5px 5px hotpink;
 }
